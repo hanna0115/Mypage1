@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(255, 255, 143);
+}
+
+.introduce {
+  text-align: center;
+}
+
+.intro {
+  width: 200px;
+  margin: 0 auto;
+  border: 2px solid #000;
+  border-radius: 50%;
+}
+
+.box {
+  width: 500px;
+  background-color: #fff;
+  border-radius: 30px;
+  padding: 10px;
+  margin: 20px auto;
+}
+
+.habit1 {
+  width: 80px;
+}
+
+.habit2 {
+  width: 40px;
+}
+
+.end {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.sns {
+  width: 50px;
+}
